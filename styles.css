@@ -1,0 +1,55 @@
+body {
+    background-color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.flex-all {
+    margin: 150px auto;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.flex-card {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.flex-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+}
+
+#card {
+    width: 200px;
+    height: 150px;
+    background-color: beige;
+    color: grey;
+    text-align: center;
+    line-height: 150px;
+    font-size: 2em;
+    padding: 0 20px;
+    border-radius: 10px;
+    box-shadow: 6px 7px 20px 0px rgba(41,41,41,1);
+}
+
+.button {
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 9px 0px rgba(51,51,51,1);
+    color: beige;
+    padding: 10px 5px;
+    cursor: pointer;
+}
+#flip-btn {
+    background-color: rgb(40, 127, 240);
+}
+#next-btn {
+    background-color: rgb(212, 164, 3);
+}
