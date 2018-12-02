@@ -53,3 +53,11 @@ body {
 #next-btn {
     background-color: rgb(212, 164, 3);
 }
+
+#language2-select {
+    display: none;
+}
+
+.hideOption {
+    display: none;
+}

@@ -1,0 +1,25 @@
+
+STORIES
+prepinani mezi jazyky
+do kazdeho objektu se pridaji dalsi key value pairs jazyk - slovo
+napriklad englis - beer.
+uzivatel si naklika jake chce jaxyky a jejich poradi
+a toto se ulozi jako lang1 a lang2 a to se vse pak posila do tech funkci misto czech a spanish
+je potreba odebrat jazyk jedna z nabidky jazyku dva a naopak 
+
+STORY
+animace karticky a tlacitek
+
+STORY
+kategorie slov - slovesa, pridavna jmena, temata - doplnit jako property!
+
+pocitani skore
+
+STORY
+oddel od sebe event handler functions a event listeners
+
+STORY
+flip card on the cick on the card
+
+STORY
+extract words from Oxfrod Dictionary API
